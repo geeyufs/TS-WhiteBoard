@@ -2,12 +2,6 @@
   "version": 2,
   "projects": [
     {
-      "id": "legacy",
-      "title": "Existing boards",
-      "slug": "existing-boards",
-      "entries": []
-    },
-    {
       "id": "de34533785ea48bda2a8ca089874dc75",
       "title": "DDD",
       "slug": "ddd",
