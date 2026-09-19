@@ -5,13 +5,7 @@
       "id": "legacy",
       "title": "Existing boards",
       "slug": "existing-boards",
-      "entries": [
-        {
-          "id": "30239c7e7f4d4ea781f7033e274ad924",
-          "title": "01 - 0:03:17.01",
-          "slug": "01-0-03-17-01"
-        }
-      ]
+      "entries": []
     },
     {
       "id": "de34533785ea48bda2a8ca089874dc75",
@@ -22,6 +16,11 @@
           "id": "7bcea08c0e3e42e29d128082defb3e83",
           "title": "01 - 0:03:17.01",
           "slug": "01-0-03-17-01"
+        },
+        {
+          "id": "30239c7e7f4d4ea781f7033e274ad924",
+          "title": "01 - 0:03:17.01",
+          "slug": "01-0-03-17-01-2"
         }
       ]
     }
