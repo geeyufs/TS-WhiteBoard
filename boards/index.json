@@ -1,9 +1,15 @@
 {
-  "version": 1,
-  "boards": [
+  "version": 2,
+  "projects": [
     {
-      "id": "30239c7e7f4d4ea781f7033e274ad924",
-      "title": "01 - 0:03:17.01"
+      "id": "legacy",
+      "title": "Existing boards",
+      "entries": [
+        {
+          "id": "30239c7e7f4d4ea781f7033e274ad924",
+          "title": "01 - 0:03:17.01"
+        }
+      ]
     }
   ]
 }
